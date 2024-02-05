@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-30T13:02:22 IST" name="Default suite" finished-at="2024-01-30T13:02:25 IST" duration-ms="2882">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T13:02:22 IST" name="Default test" finished-at="2024-01-30T13:02:25 IST" duration-ms="2882">
+      <class name="FirstTestNG">
+        <test-method signature="f()[pri:0, instance:FirstTestNG@4c371370]" started-at="2024-01-30T13:02:22 IST" name="f" finished-at="2024-01-30T13:02:22 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- FirstTestNG -->
+      <class name="NewTest">
+        <test-method signature="f()[pri:0, instance:NewTest@5c6648b0]" started-at="2024-01-30T13:02:22 IST" name="f" finished-at="2024-01-30T13:02:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- NewTest -->
+      <class name="ms.testng.ms.NewTest">
+        <test-method signature="keyDown()[pri:0, instance:ms.testng.ms.NewTest@4e517165]" started-at="2024-01-30T13:02:22 IST" name="keyDown" finished-at="2024-01-30T13:02:24 IST" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyDown -->
+        <test-method signature="keyUp()[pri:0, instance:ms.testng.ms.NewTest@4e517165]" started-at="2024-01-30T13:02:24 IST" name="keyUp" finished-at="2024-01-30T13:02:24 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyUp -->
+        <test-method signature="sendKeysToActiveElement()[pri:0, instance:ms.testng.ms.NewTest@4e517165]" started-at="2024-01-30T13:02:24 IST" name="sendKeysToActiveElement" finished-at="2024-01-30T13:02:24 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeysToActiveElement -->
+        <test-method signature="sendKeysToDesignatedElement()[pri:0, instance:ms.testng.ms.NewTest@4e517165]" started-at="2024-01-30T13:02:24 IST" name="sendKeysToDesignatedElement" finished-at="2024-01-30T13:02:25 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeysToDesignatedElement -->
+      </class> <!-- ms.testng.ms.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
